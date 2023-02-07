@@ -5,6 +5,7 @@ const SignUp = ({ title }) => {
     <a
       href='https://docs.google.com/forms/d/e/1FAIpQLSf1LO2Q5exb2EGDDsReZuHsGU-t3hM0_HsunZQu3Fb0GKctNA/viewform'
       target='_blank'
+      rel='noreferrer'
       className='btn btn-light'
     >
       <FaExternalLinkAlt /> {title}
